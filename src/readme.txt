@@ -1,0 +1,1 @@
+Simple recipe web app built with react by using the Edamam api
